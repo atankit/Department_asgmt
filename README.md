@@ -1,1 +1,1 @@
-# <h1> <u> Department_Assignment </u>  </h1>
+# <h1> Department_Assignment </h1>
