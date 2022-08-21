@@ -21,3 +21,10 @@ After clicking the edit link the page redirects to employeeUpdate.jsp/professorU
 
 
 ![Screenshot (52)](https://user-images.githubusercontent.com/102401268/185805333-f2fef00f-8a9f-4e6c-97e3-3b1c50791ef0.png)
+
+![Screenshot (54)](https://user-images.githubusercontent.com/102401268/185805711-ec6c9660-e737-481d-b29b-63e187a09947.png)
+
+
+Select the row of the table in which the record needs to delete and click the delete link of the row.
+
+![Screenshot (56)](https://user-images.githubusercontent.com/102401268/185805744-a179819f-438a-4c52-8246-6b8439053688.png)
