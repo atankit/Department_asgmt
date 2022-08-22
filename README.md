@@ -22,7 +22,7 @@ After clicking the edit link the page redirects to employeeUpdate.jsp/professorU
 
 ![Screenshot (52)](https://user-images.githubusercontent.com/102401268/185805333-f2fef00f-8a9f-4e6c-97e3-3b1c50791ef0.png)
 
-eg. THe name of the employee with Id 24 has been edited. ↑
+eg. The name of the employee with Id 24 has been edited. ↑
 
 ![Screenshot (54)](https://user-images.githubusercontent.com/102401268/185805711-ec6c9660-e737-481d-b29b-63e187a09947.png)
 
