@@ -1,4 +1,4 @@
-# <h1> Department_Assignment </h1>
+# <h1> Office Management System  </h1>
 In this project I have used Jsp Servlet JDBC MySql and Bootstrap.I have created 3 different forms with the help of Bootstrap.
 
 After run the page you will see the above sceenshot page and highlights details.
